@@ -4,6 +4,11 @@ body {
   padding: 0;
   background: #fefefe;
 }
+h1{
+  text-align: center;
+  font-size: 6;
+}
+
 
 /* Header styles */
 header {
