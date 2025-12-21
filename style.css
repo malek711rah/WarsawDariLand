@@ -1,10 +1,12 @@
 body {
+  body: #fdf5e6;
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
   background: #fefefe;
+  text-align: center;
 }
-h1{
+h1 h2 h3{
   text-align: center;
   font-size: 6;
 }
@@ -20,7 +22,7 @@ header {
 
 /* Nav bar styles */
 nav {
-  background: #333;
+  background: #fafdcd;
   padding: 0.5rem;
 }
 nav ul {
